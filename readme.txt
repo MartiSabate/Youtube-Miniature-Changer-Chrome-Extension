@@ -4,4 +4,4 @@ This is my first chome extension :D
 
 - Lovely <3
 
-![](https://i.imgur.com/5rOr4Hy.png)
+![demo](https://i.imgur.com/5rOr4Hy.png)
